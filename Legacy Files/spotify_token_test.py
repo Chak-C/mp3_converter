@@ -2,8 +2,8 @@ import base64
 import requests
 
 # Define client credentials
-client_id = '49b8247f173447b3a2bf1bda588153c4'
-client_secret = '43fd0edf8b0e495c81dc1b38cc237b77'
+client_id = ''
+client_secret = ''
 
 # Code for token
 # Concatenate client ID and client secret separated by a colon
